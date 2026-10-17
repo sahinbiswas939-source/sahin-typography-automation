@@ -1,0 +1,11 @@
+file '/home/runner/work/sahin-typography-automation/sahin-typography-automation/output/slide_00.png'
+duration 3
+file '/home/runner/work/sahin-typography-automation/sahin-typography-automation/output/slide_01.png'
+duration 3
+file '/home/runner/work/sahin-typography-automation/sahin-typography-automation/output/slide_02.png'
+duration 3
+file '/home/runner/work/sahin-typography-automation/sahin-typography-automation/output/slide_03.png'
+duration 3
+file '/home/runner/work/sahin-typography-automation/sahin-typography-automation/output/slide_04.png'
+duration 3
+file '/home/runner/work/sahin-typography-automation/sahin-typography-automation/output/slide_04.png'
